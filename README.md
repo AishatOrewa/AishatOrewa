@@ -69,7 +69,7 @@ A Python-based network packet sniffer built with **Scapy** to capture and analyz
 * Extracts relevant packet information
 * Displays packet length and other details
 
-🔗 [View Project](https://github.com/AishatOrewa/CodeAlphaPacketSniffer](https://github.com/AishatOrewa/CodeAlpha_PacketSniffer)
+🔗 [View Project](https://github.com/AishatOrewa/CodeAlpha_PacketSniffer)
 
 ---
 
