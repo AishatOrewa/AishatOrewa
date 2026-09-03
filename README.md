@@ -69,7 +69,7 @@ A Python-based network packet sniffer built with **Scapy** to capture and analyz
 * Extracts relevant packet information
 * Displays packet length and other details
 
-🔗 [View Project](https://github.com/AishatOrewa/CodeAlphaPacketSniffer)
+🔗 [View Project](https://github.com/AishatOrewa/CodeAlphaPacketSniffer](https://github.com/AishatOrewa/CodeAlpha_PacketSniffer)
 
 ---
 
@@ -111,7 +111,7 @@ I'm particularly interested in understanding how systems work, how vulnerabiliti
 
 I'm always open to learning, collaborating, and connecting with other people in technology.
 
-**LinkedIn:** [Aeeshat Orewa](https://www.linkedin.com/in/aishatorewa/)
+**LinkedIn:** [Aishat Orewa](https://www.linkedin.com/in/aishatorewa/)
 
 **Email:** aishatwokili@gmail.com
 
