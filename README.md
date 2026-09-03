@@ -84,7 +84,7 @@ A web application developed as part of my frontend development journey, designed
 * JavaScript
 * Supabase
 
-🔗 [View Project](https://github.com/AishatOrewa)
+🔗 [View Project]([https://github.com/AishatOrewa/useskillswap])
 
 ---
 
