@@ -39,13 +39,17 @@ I'm currently strengthening my skills in cybersecurity, Python, web development,
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![React](https://shields.io/badge/-react-4377cb?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat\&logo=wordpress\&logoColor=white)
 
 ### Cybersecurity
 
@@ -72,20 +76,20 @@ A Python-based network packet sniffer built with **Scapy** to capture and analyz
 🔗 [View Project](https://github.com/AishatOrewa/CodeAlpha_PacketSniffer)
 
 ---
+### 🔎 Ilmify Pricing Page
 
-### 🌐 SkillSwap
+A pricing page for an imaginary organization that handles tutorials for student built with **React** and **TailwindCss**
+**It's Features:**
 
-A web application developed as part of my frontend development journey, designed around connecting users to exchange skills and knowledge.
+ Features
+*Tailwind CSS v4 Architecture.
+*State-Driven Mobile Menu.
+*Dynamic Array Mapping.
+*Conditional Layout Highlighting.
+*Accessible Interaction States.
+*Fluid Layout Grids.
 
-**Built with:**
-
-* HTML
-* CSS
-* JavaScript
-* Supabase
-
-🔗 [View Project](https://github.com/AishatOrewa/useskillswap)
-
+🔗 [View Project](https://github.com/AishatOrewa/IlmifyProject)
 ---
 
 ## Certifications & Learning
