@@ -117,6 +117,8 @@ I'm always open to learning, collaborating, and connecting with other people in 
 
 **LinkedIn:** [Aishat Orewa](https://www.linkedin.com/in/aishatorewa/)
 
+**X:** [Aishat Orewa](https://www.x.com/AishatOrewa)
+
 **Email:** aishatwokili@gmail.com
 
 ---
